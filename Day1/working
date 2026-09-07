@@ -1,0 +1,23 @@
+machine countain jvm 
+
+java is platform independent but 
+
+jvm is plateform dependent .
+jvm only understand byte code .
+
+we need to  conver java code which is in english into byte code 
+for that we need compiler(javac)..
+
+first file which we  want to run needs ( Main Method) 
+
+Main method contain a signature (public static void main(String arg[]){})
+
+java is object oriented means ever thing should be in object and
+ to create object we need class
+
+when every we create  a .java file and run it. it will also create  a .class file it contails byte code.
+
+if we want to run java application we need (extra libraries) and also we need runtime
+To run  some thing we need jre java run time environment
+
+ we can say java as wora(wright once run any where)
