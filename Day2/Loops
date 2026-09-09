@@ -1,0 +1,27 @@
+Level 1 — Basic (5)
+Print numbers from 1 to N
+Print numbers from N to 1
+Print all even numbers from 1 to N
+Print all odd numbers from 1 to N
+Find the sum of numbers from 1 to N
+
+Level 2 — Number problems (5)
+Print multiplication table of N
+Find factorial of N
+Count the digits numberof a 
+Find the sum of digits
+Reverse a number
+
+Level 3 — Logic building (5)
+Check whether a number is palindrome
+Check whether a number is prime
+Print all prime numbers from 1 to N
+Find the largest digit in a number
+Find the smallest digit in a number
+
+Level 4 — Slightly harder (5)
+Check Armstrong number
+Print Armstrong numbers in a range
+Find GCD/HCF of two numbers
+Find LCM of two numbers
+Calculate a^b using a loop  
